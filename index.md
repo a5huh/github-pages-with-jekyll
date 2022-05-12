@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Making ADRs Better"
 ---
 
-I'm glad you are here. I plan to talk about ...
+[ADR](https://adr.github.io)s are a great way to document your system's architectural choices.
+
+I'd like to explore the available tooling for it.
